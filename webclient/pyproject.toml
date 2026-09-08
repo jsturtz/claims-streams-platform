@@ -1,0 +1,7 @@
+[project]
+name = "webclient"
+version = "0.1.0"
+description = "A Django-based webclient to ingest claims data for Kafka project"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
